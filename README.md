@@ -8,7 +8,8 @@ Digispark ATTINY85 Change Desktop Wallpaper </br>
 This application is free of virus or malware </br>
 
 <h3>Software Requirment </h3>
-NodeJS<br/>
+Andruino Editor<br/>
+Digispark<br/>
 
 <h3>Online Application</h3>
 Distribution itch(Web and Desktop): https://goo.gl/Wq1nuD </br>
